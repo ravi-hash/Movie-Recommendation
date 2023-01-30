@@ -1,5 +1,5 @@
 # Movie Recommendation
-This Repositories is use to demonstrating the various of movie using [MovieLense 100K Dataset](https://grouplens.org/datasets/movielens/1m/).MovieLens 100K movie ratings Stable a benchmark dataset. 100,000 ratings from 1000 users on 1700 movies. Released 4/1998.
+This repository is used to demonstrate various movie recommendation systems using [MovieLense 100K Dataset](https://grouplens.org/datasets/movielens/1m/).MovieLens 100K movie ratings Stable a benchmark dataset. 100,000 ratings from 1000 users on 1700 movies. Released 4/1998.
 ## Requirements
 
 * [Python 3.6](https://www.python.org/downloads/release/python-360/)
